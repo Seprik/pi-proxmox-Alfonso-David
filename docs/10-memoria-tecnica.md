@@ -8,8 +8,10 @@ limitaciones que sigan abiertas.
 
 ## Resumen
 
-PENDIENTE: describir en un parrafo que se va a construir, para quien y con que
-resultado esperado. Revisar este resumen al cerrar el proyecto.
+Se va a montar un nodo Proxmox VE individual sobre un equipo fisico (Intel Pentium G4560, 8 GB de RAM, SSD de 447,1 GB) para
+practicar administracion de sistemas operativos en red. El laboratorio tendra un servidor ASO y un cliente Linux en VM o LXC,
+con plantilla, automatizacion y copias de seguridad. Resultado esperado: un entorno reproducible y documentado en GitHub.
+Resumen provisional; se revisara al cerrar el proyecto.
 
 ## Necesidad y objetivos
 
