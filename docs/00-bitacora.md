@@ -28,8 +28,16 @@ commit dentro de su entrada de bitacora.
 - Incidencias y solucion o estado pendiente: eth0 aparece inactiva (comprobar cable y DHCP); modelo exacto y salud del SSD sin comprobar; fichas de Intel y ASUS pendientes de verificar en las webs de los fabricantes.
 - Siguiente paso: Diseño de red.
 
-Anadir una entrada con esta estructura en cada sesion. El historial de
-GitHub registra los commits; no hace falta incluir el hash del propio
-commit dentro de su entrada de bitacora.
+
+## Sesion 03 - 20/10/26
+
+- Objetivo: Diseño de la estructura de red para Proxmox.
+- Acciones realizadas: Creacion de la estructura de red que configurare al crear el Proxmox. He modificado los archivos README.md y 02-diagrama-red.md.
+- Decisiones y motivos: Modalidad virtual para simplificar el proceso de montar el Proxmox. Las ips definidas en la estructura de red han sido elegidas teniendo como referencia los enunciados y apuntes del temario.
+- Pruebas y resultados: No han habido en esta sesion
+- Documentos o evidencias: [Ficha inicial](00-ficha-inicial.md).
+- Incidencias y solucion o estado pendiente: No han habido en esta sesion
+- Siguiente paso: Instalacion de Proxmox
+
 
 [Volver al indice](../README.md)

@@ -10,7 +10,7 @@ PENDIENTE: Montar un proxmox al que poder conectarse con nuestros equipos, despl
 
 ## Modalidad
 
-PENDIENTE: Fisica.
+Virtual
 
 ## Indice de documentacion
 
@@ -30,11 +30,11 @@ PENDIENTE: Fisica.
 
 ## Estado
 
-- [ ] GitHub creado y primer commit publicado
-- [ ] URL entregada y acceso docente comprobado
-- [ ] Modalidad indicada
-- [ ] Inventario
-- [ ] Diagrama de red
+- [x] GitHub creado y primer commit publicado
+- [x] URL entregada y acceso docente comprobado
+- [x] Modalidad indicada
+- [x] Inventario
+- [x] Diagrama de red
 - [ ] Instalacion Proxmox
 - [ ] Plantilla Linux
 - [ ] VMs/LXC
