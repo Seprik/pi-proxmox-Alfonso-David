@@ -3,11 +3,6 @@
 ## Objetivo
 Diseñar la red del laboratorio antes de instalar servicios,definiendo: el nombre del nodo, la interfaz de gestión, los bridges, la red de laboratorio, las IPs de las VMs/LXC, el gateway, DNS, puertos y medidas de aislamiento. 
 
-## Comandos usados
-
-```bash
-
-```
 
 ## Tabla de estructura de red
 
@@ -23,12 +18,16 @@ Diseñar la red del laboratorio antes de instalar servicios,definiendo: el nombr
 | Gateway y DNS | Gateaway y DNS | Gateaway: 192.168.56.10; nodo: gateaway 10.0.2.2; DNSNATVirtualbox: 10.0.2.3; DNS: Google 8.8.8.8 | Salida a internet | Servidor DNS |
 | Puertos necesarios | 8006/tcp , 22/tcp | - | Web de Proxmox, conexion SSH | Proxmox y SSH  |
 
-## Evidencias
+## Diagrama de red
+
+![Diagrama de red](/evidencias/capturas-o-salidas/s02-diagrama.png)
 
 ## Incidencias
-Nulas
+
+**Nulas**
+
 ## Conclusion
 
-Finalmente, tras completar la tabla, asi es como deberia de ser la estructura de red que seguira mi proyecto intermodular, en principio, sin errores y funcional. Ahora solo queda aplicarlo cuando cree el Proxmox.
+Finalmente, tras completar la tabla, asi es como deberia de ser la estructura de red que seguira mi proyecto intermodular, en principio, sin errores y funcional. Ahora solo queda aplicarlo cuando cree el Proxmox y corregir posibles incidencia que ocurran dutrante el proceso.
 
 [Volver al indice](../README.md)
